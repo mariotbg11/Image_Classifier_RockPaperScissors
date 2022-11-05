@@ -5,4 +5,5 @@ Model :
 - CNN (Sequential)
 
 Accuracy :
-- [x] accuracy     : 94 %
+- [x] accuracy     : 94%
+- [x] val accuracy     : 96%
