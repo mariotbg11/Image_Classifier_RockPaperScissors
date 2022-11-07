@@ -1,5 +1,5 @@
 # Image_Classifier_RockPaperScissors
-Submission Project | Modul Belajar Pengembangan Machine Learning Dicoding | Image Classifier RockPaperScissors |
+Submission Project | Dicoding : Modul Belajar Machine Learning untuk Pemula | Image Classifier RockPaperScissors |
 
 Model :
 - CNN (Sequential)
